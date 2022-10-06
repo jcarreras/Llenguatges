@@ -1,2 +1,2 @@
-<%="Hola, Ramis!" %>
+<%="Hola, Menorca!" %>
 

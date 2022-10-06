@@ -1,2 +1,2 @@
-<?php echo '<p> Hola, Ramis! </p>' ;?>
+<?php echo '<p> Hola, Menorca! </p>' ;?>
 

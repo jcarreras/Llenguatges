@@ -1,3 +1,3 @@
 % ruby
-print "Hola, Ramis!"
+print "Hola, Menorca!"
 

@@ -1,3 +1,3 @@
 <%@ page language='java' %>
-<%="Hola, Ramis!" %>
+<%="Hola, Menorca!" %>
 
