@@ -1,0 +1,3 @@
+% ruby
+print "Hola, Ramis!"
+
